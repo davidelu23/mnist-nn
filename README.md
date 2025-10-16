@@ -1,4 +1,4 @@
-# mnist-octave
+# mnist
 Repository containing files for training and evaluating a simple feedforward neural
 network loop for classification using the mnist dataset split into training and
 test subsets. The network supports a single hidden layer, and weights are
