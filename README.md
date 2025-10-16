@@ -10,6 +10,7 @@ after some tries I came to the conclussion that there was no significant
 improvement, so I scrapped the idea.
 
 Functions:
+
 ~load_dataset(path): Loads a file from the specified path and returns the
 feature matrix X and corresponding label vector y.
 
